@@ -1,4 +1,4 @@
-**Book Search Engine</h1>
+# Book Search Engine
   
 
 ## Description
@@ -7,10 +7,8 @@
 
 ## Table of Contents
 
-  
 * [Installation](#installation)
-
-* [Purpose](#purpose)
+* [Usage](#usage)
 
 * [Contributing](#contributing)
 
@@ -25,14 +23,17 @@
   3. Run `npm run develop` on the same directory to have both server and client running at the same time.
 
 
-## Purpose
+## Usage
+  Access the deployed app here: https://shielded-sands-10016.herokuapp.com/
 
-  Often times junior-level programmers are tasked with taking an existing, perfectly working app and have to make it do the same thing but more efficiently. This was solid practice for doing just that, and practice like this gives me a good idea where to start in future projects like this.
+  ![Search Engine](./Assets/search.png)
+  ![Saved](./Assets/saved.png)
+    Often times junior-level programmers are tasked with taking an existing, perfectly working app and have to make it do the same thing but more efficiently. This was solid practice for doing just that, and practice like this gives me a good idea where to start in future projects like this.
 
-
+## License
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Questions
+You can view the repo here [GitHub Repo](https://github.com/favro03/book-search-engine)
 
-  Find me on GitHub: [favro03](https://github.com/jdono100) 
-
-  Or send me an email:[email](mailto:wetr9902@gmail.com) 
+[Contact Us](mailto:wetr9902@gmail.com)
